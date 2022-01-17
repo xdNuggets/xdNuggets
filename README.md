@@ -1,11 +1,11 @@
 # Introduction
-Hey! I am Nuggets! I am a 15 year old programmer who enjoys coding mostly in Python, but is learning Java. I barely use GitHub, so you won't be seeing much stuff here!
+Hey! I am Nuggets! I am a 16 year old programmer who enjoys coding mostly in Python, but is learning Java. I barely use GitHub, so you won't be seeing much stuff here!
 
 
 # My Projects
 My current project is:
 
-[Pillow Client](https://pillowclient.xyz). Join the Discord: https://discord.gg/Sa6a676mTA
+Learning Java by coding Minecraft Plugins!
 
 
 # Information
