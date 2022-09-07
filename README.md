@@ -3,7 +3,7 @@ Hey! My name is Nuggets, and I'm a passionate developer focusing on Java by maki
 
 If you want to contact me, heres the information!
 
-[![Discord Presence](https://api.lanyard.rest/v1/users/784457955156033556)](https://discord.com/users/784457955156033556)
+[![Discord Presence](https://lanyard.cnrad.dev/api/784457955156033556)](https://discord.com/users/784457955156033556)
 
 
 
