@@ -1,7 +1,7 @@
 # Introduction
 Hey! My name is Josh, previously known as Nuggets, and I'm a passionate developer focusing on Java by making Minecraft related addons, such as plugins or mods! I plan to learn React or Vue, and also make a crappy game using C#. I'm really into aesthetic and smooth things, so if I see smooth tranisitions, effects, even rounded corners, I will fanboy over them. I also love aesthetic things such as good looking unix setups.
 
-If you want to contact me, heres the information!
+#i use arch btw
 
 
   
