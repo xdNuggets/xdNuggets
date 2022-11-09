@@ -8,7 +8,7 @@ i use arch btw
   
 
 
-![Discord Presence][(https://lanyard.cnrad.dev/api/784457955156033556)](https://api.lanyard.rest/v1/users/784457955156033556)
+[![Discord Presence](https://lanyard.cnrad.dev/api/784457955156033556)](https://discord.com/users/784457955156033556)
 
 
 
