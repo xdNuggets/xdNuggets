@@ -8,7 +8,7 @@ Hey! My name is Josh, previously known as Nuggets, and I'm a passionate develope
 
 # My Projects
 - I made a fork of a popular Intellij Project where you can upload code screenshots to e-z.host: [Easy Code Screenshots](https://github.com/xdNuggets/ecs-ez-host-fork)
-My current project is: [Spigot Report System](https://github.com/xdNuggets/ReportSystem)
+- My current project is: [Spigot Report System](https://github.com/xdNuggets/ReportSystem)
 
 
 # Information
