@@ -1,4 +1,4 @@
-![Literally me](./IMG_0996.png)
+<img src="./IMG_0996.png" alt="Literally me" height="400px" width="1000px"/>
 
 
 
