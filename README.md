@@ -1,3 +1,7 @@
+![Literally me](https://i-sell.femboy.services/img/tc1hvvc4.png)
+
+
+
 # Introduction
 ```typescript
 const josh = {
@@ -8,11 +12,10 @@ const josh = {
   languages: ["German", "English"],
   hobbies: ["Gaming", "Coding", "Anime"],
   programming_languages: ["Python", "Java", "Kotlin", "Typescript"],
-  skills: ["Being above average at games", "Hating Javascript"]
+  skills: ["Being above average at games", "Hating Javascript"].
   learning: ["Full-Stack Development", "Drawing"]
 }
 ```
-
 
 # My Projects
 - I made a fork of a popular Intellij Project where you can upload code screenshots to e-z.host: [Easy Code Screenshots](https://github.com/xdNuggets/ecs-ez-host-fork)
