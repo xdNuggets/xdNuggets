@@ -4,7 +4,7 @@
 
 # Introduction
 ```typescript
-const josh = {
+const josh: Human = {
   name: "Josh",
   age: 18,
   nationality: "German",
