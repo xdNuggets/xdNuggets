@@ -1,4 +1,4 @@
-<img src="./IMG_0996.png" alt="Literally me" height="400px" width="1000px"/>
+<img src="./caption-1.gif" alt="Literally me" height="400px" width="1000px"/>
 
 
 # Introduction
