@@ -21,7 +21,6 @@ const josh: Human = {
 - My current project is learning Typescript and Full-Stack development
 
 # Information
-I am currently working as a voluntary developer at [DamageInc](https://dmginc.gg)
 
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=xdNuggets&show_icons=true&theme=radical)
 
